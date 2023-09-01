@@ -9,7 +9,7 @@ This was created on the Netbeans 8.2 IDE, therefore, if you are using another ID
 This is an object oriented programming project, therefore, there are 3 different classes, the cell, the board, and the snakes and ladders file.
 
 
-### Note
+## Note
 
 Please make sure to include all necessary files inside the same folder to guarantee the project to work. (Such as the images)
 
